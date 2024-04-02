@@ -1,0 +1,7 @@
+1.Class va object orasidagi farq, class obyektning shabloni bo’lib, object esa shu shablondan yaratilgan  namuna.
+2.Method va attribute orasidagi farqi method buyruqlarni bajaradi, attribute esa ma’lumotlarni saqlaydi.
+3.__init__ orqali biz atributlarni kiritamiz
+4.self esa obyektning metodlari, usullarini qamrab oladi
+5.Inheritance bu 1 classdan 2-classga vorislik beradi
+8.super() vazifasi vorislik olayotganda ota classning orniga super() quyib ketiladi
+7.Polymorphism bu classda bir paytning ozida koplab amallar bajarishga imkon beradi

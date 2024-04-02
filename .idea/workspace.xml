@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5a50093-364e-419c-a1e1-8147df88d2a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-savol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-dars homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12345.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-savol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-savol.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_savol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-savol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-savol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-savol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/age.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connect_postgres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitHub/git_hub_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info_user.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/met.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_vorislik.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polimorfizm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/savol-1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/savol-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/savol-4.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dars.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bcwEYorU7GhsPxSzz1OeBUgS1c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.11-dars homework.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12345.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_savol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-savol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-savol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-savol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CRUD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.connect_postgres.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.git_hub_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.less.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.met.executor&quot;: &quot;Run&quot;,
+    &quot;Python.methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop_vorislik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polimorfizm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.savol-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.savol-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.savol-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sinf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.yy.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jahongirqodirov/Desktop&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;,
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Desktop" />
+      <recent name="$USER_HOME$/Desktop/HOMEWORK" />
+      <recent name="$USER_HOME$/Desktop/2-savol" />
+      <recent name="$USER_HOME$/Desktop/1-savol" />
+      <recent name="$USER_HOME$/Desktop/4-oy imtixoni Q.J" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a50093-364e-419c-a1e1-8147df88d2a5" name="Changes" comment="" />
+      <created>1706527563552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706527563552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/homework_1.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
